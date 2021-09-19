@@ -1,5 +1,6 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "description": "useUpdateEffect React hook",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -33,8 +34,19 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoyaShahroudi/use-update-effect-hook.git"
+  },
+  "keywords": [
+    "react", "hook", "react-hook", "useEffect", "use", "update effect", "did update", "componentDidUpdate"
+  ],
   "name": "use-update-effect-hook",
   "author": "Roya Shahroudi",
+  "bugs": {
+    "url": "https://github.com/RoyaShahroudi/use-update-effect-hook/issues"
+  },
+  "homepage": "https://github.com/RoyaShahroudi/use-update-effect-hook#readme",
   "module": "dist/use-update-effect-hook.esm.js",
   "size-limit": [
     {
